@@ -1,4 +1,4 @@
-![logo](https://github.com/T4tabrej/T4tabrej/blob/main/banner.png)
+![logo](https://github.com/T4tabrej/T4tabrej/blob/main/banner(1).png)
 <h1 align="center">Hi 👋, I'm Tabrej Hussain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
